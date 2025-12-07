@@ -8,8 +8,6 @@
 
 ## Die Entwicklung der Transistoren
 
-## Die Entwicklung der integrierten Schaltkreise
-
 ## Zusammenfassung
 
 ## Literatur
